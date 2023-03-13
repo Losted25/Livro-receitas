@@ -2,10 +2,6 @@
 
 * Stroggnoff
 
-* 
+* Pizza
 
-
-
-
-
-
+* Sushi
